@@ -1,0 +1,8 @@
+C:\Users\Şevval Ekinci\Desktop\C#\Kitaplık\Kitaplık\bin\Debug\Kitaplık.exe.config
+C:\Users\Şevval Ekinci\Desktop\C#\Kitaplık\Kitaplık\bin\Debug\Kitaplık.exe
+C:\Users\Şevval Ekinci\Desktop\C#\Kitaplık\Kitaplık\bin\Debug\Kitaplık.pdb
+C:\Users\Şevval Ekinci\Desktop\C#\Kitaplık\Kitaplık\obj\Debug\Kitaplık.csproj.AssemblyReference.cache
+C:\Users\Şevval Ekinci\Desktop\C#\Kitaplık\Kitaplık\obj\Debug\Kitaplık.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şevval Ekinci\Desktop\C#\Kitaplık\Kitaplık\obj\Debug\Kitaplık.csproj.CoreCompileInputs.cache
+C:\Users\Şevval Ekinci\Desktop\C#\Kitaplık\Kitaplık\obj\Debug\Kitaplık.exe
+C:\Users\Şevval Ekinci\Desktop\C#\Kitaplık\Kitaplık\obj\Debug\Kitaplık.pdb
